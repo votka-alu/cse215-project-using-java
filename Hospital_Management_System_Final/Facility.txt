@@ -1,0 +1,1 @@
+Ambulance 10 yes Bed 400 yes 
